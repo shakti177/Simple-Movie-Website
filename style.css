@@ -154,6 +154,7 @@ header.shadow .logo {
   border-radius: 0.2rem !important;
   background: var(--bg-color) !important;
   opacity: 1 !important;
+  transition: 1s;
 }
 
 .swiper-pagination-bullet-active {
